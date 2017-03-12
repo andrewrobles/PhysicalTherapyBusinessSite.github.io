@@ -1,0 +1,25 @@
+# Site settings
+title: Physical Therapist Malibu, CA | Scott Campbell Physical Therapy
+email: scott@scottcampbellpt.com
+description: > # this means to ignore newlines until "baseurl:"
+ Scott Campbell Physical Therapy is Malibu, CA's 5-star rated physical therapist. Call 310.456.9705. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Scott Campbell, PT 
+email: scott@scottcampbellpt.com
+instagram_username: scottcampbellpt
+facebook_username: scottcampbellphysicaltherapy
+
+address: 
+  - line: 23656 Pacific Coast Highway, Malibu, CA
+  - line:
+  # Feel free to add more lines here 
+telephone: (310)456-9705
+copyright: Scott Campbell Physical Therapy
+
+# API settings
+google_api_key: AIzaSyC9JVA5or6aqgSPay6ZpqJi1EamqJPk4ys
+# Build settings
+markdown: kramdown
